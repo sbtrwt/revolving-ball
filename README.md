@@ -1,4 +1,4 @@
-# rovolving ball
+# Revolving ball
 One tap game where you can switch revolving ball center and make high score by collecting green power
 
 ## Code Implementation
